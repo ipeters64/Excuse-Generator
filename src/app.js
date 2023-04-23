@@ -1,7 +1,7 @@
 /* eslint-disable */
 import "bootstrap";
 import "./style.css";
-
+//adding the event listener for the onClick function //
 window.onload = () => {
   document.querySelector("#btn").addEventListener("click", () => {
     document.querySelector("#excuse").innerHTML = excuseGen();
