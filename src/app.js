@@ -8,7 +8,7 @@ window.onload = () => {
   });
   console.log("hello");
 };
-
+// defining the variables //
 let excuseGen = () => {
   let pronoun = ["The ", "A "];
   let subject = ["dog ", "cat ", "stranger ", "friend ", "homeless man "];
